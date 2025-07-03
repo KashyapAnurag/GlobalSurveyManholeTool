@@ -1,6 +1,6 @@
 # 📖 Manhole Data Extractor (GlobalSurvey PDF2CSV Tool)
 
-A user-friendly Python GUI tool to extract structured **Manhole Location**, **Incoming**, and **Outgoing Pipe** details from Excel files generated from PDF surveys. This tool creates formatted `.xlsx` and `.csv` outputs and is ideal for drainage and water infrastructure projects.
+A user-friendly tool to extract structured **Manhole Location**, **Incoming**, and **Outgoing Pipe** details from Excel files generated from PDF surveys. This tool creates formatted `.xlsx` and `.csv` outputs and is ideal for drainage and water infrastructure projects.
 
 ---
 Only for survey cards by:

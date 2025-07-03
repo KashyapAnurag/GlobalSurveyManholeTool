@@ -41,7 +41,7 @@ Anurag Kashyap
 
 📧 Email: anuragkr.kashyap@gmail.com
 
-🔗 GitHub: [github.com/KashyapAnurag/Red2CSV](https://github.com/KashyapAnurag/GlobalSurveyManholeTool)
+🔗 GitHub: [github.com/KashyapAnurag/GlobalSurveyManholeTool](https://github.com/KashyapAnurag/GlobalSurveyManholeTool)
 
 ## ❤️ Support Me
 If you find this tool helpful and would like to support its development:

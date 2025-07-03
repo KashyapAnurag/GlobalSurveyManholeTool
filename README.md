@@ -14,7 +14,6 @@ Only for survey cards by:
 - 📤 Exports clean Excel and CSV outputs
 - 🎨 Auto-formats headers and columns
 - 🧮 Computes chamber/shaft plan area and roof levels
-- 📦 Built with `Tkinter`, `Pandas`, and `OpenPyXL`
 - 🖱️ Simple and clean GUI interface
 - 🔗 Clickable GitHub support in-app
 
@@ -43,3 +42,10 @@ Anurag Kashyap
 📧 Email: anuragkr.kashyap@gmail.com
 
 🔗 GitHub: [github.com/KashyapAnurag/Red2CSV](https://github.com/KashyapAnurag/GlobalSurveyManholeTool)
+
+## ❤️ Support Me
+If you find this tool helpful and would like to support its development:
+
+💸 Donate via UPI : anuragkr.kashyap@ybl
+
+🌟 Star the project on GitHub

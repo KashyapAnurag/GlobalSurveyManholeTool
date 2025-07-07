@@ -35,7 +35,7 @@ Incoming Pipes: A table showing all the details for incoming pipes. ⬇️
 
 Outgoing Pipes: A table with all the details for outgoing pipes. ⬆️
 
-###💡 Important Things to Note
+### 💡 Important Things to Note
 PDF Format Matters: This tool works best with Global Survey PDFs that have a consistent layout. If a PDF looks very different, some data might not extract correctly. ⚠️
 
 Accuracy Depends: We've tried to make it super accurate, but the quality of extraction can depend on how clear and consistent the text is in your PDFs. 🧐
@@ -48,4 +48,17 @@ Anurag Kashyap
 📧 Email: anuragkr.kashyap@gmail.com
 
 🔗 GitHub: github.com/KashyapAnurag/GlobalSurveyManholeTool
+
+
+## ❤️ Support Me
+If you find this tool helpful and would like to support its development:
+
+💸 Donate via 
+  - UPI: anuragkr.kashyap@ybl 
+  
+<img src="https://github.com/user-attachments/assets/9e6e0890-4f4a-4e42-9726-9e655ba70728" width="300" />
+
+  - PayPal: PayPal.Me/AnuragKashyap35
+
+🌟 Star the project on GitHub
 
